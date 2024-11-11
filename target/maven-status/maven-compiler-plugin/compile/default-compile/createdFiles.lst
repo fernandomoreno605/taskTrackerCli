@@ -1,0 +1,10 @@
+src/shared/domain/UpdatedAt.class
+src/task/domain/Description.class
+src/shared/domain/jsonManager/domain/JsonManager.class
+src/task/domain/Status.class
+src/shared/domain/CreatedAt.class
+src/task/domain/Id.class
+src/shared/domain/repository/Repository.class
+src/shared/domain/jsonManager/application/JsonManager.class
+src/task/enums/TaskStatus.class
+src/task/domain/Task.class

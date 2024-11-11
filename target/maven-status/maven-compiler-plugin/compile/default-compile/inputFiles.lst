@@ -1,0 +1,12 @@
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/com/example/App.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/shared/domain/CreatedAt.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/shared/domain/Identifier.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/shared/domain/UpdatedAt.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/shared/domain/jsonManager/application/JsonManager.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/shared/domain/jsonManager/domain/JsonManager.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/shared/domain/repository/Repository.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/task/domain/Description.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/task/domain/Id.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/task/domain/Status.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/task/domain/Task.java
+/Users/usuario/Documents/java_projects/taskTrackerCli/src/main/java/src/task/enums/TaskStatus.java
