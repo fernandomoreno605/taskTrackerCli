@@ -1,8 +1,8 @@
 package src.task.enums;
 
 public enum TaskStatus {
-    TO_DO("to do"),
-    IN_PROGRESS("in progress"),
+    TO_DO("todo"),
+    IN_PROGRESS("in-progress"),
     DONE("done");
 
     private final String value;
